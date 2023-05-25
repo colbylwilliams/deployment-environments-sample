@@ -1,4 +1,4 @@
 devcenter: SampleDevCenter
 project: SampleProject
 catalog: Environments
-catalog-item: FunctionApp
+definition: FunctionApp
